@@ -19,3 +19,5 @@
 </div>
   
 ##
+  
+![Snake animation](https://github.com/Edward-Doragon/blob/output/github-contribution-grid-snake.svg)
