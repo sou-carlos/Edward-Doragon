@@ -20,4 +20,4 @@
   
 ##
   
-![Snake animation](https://github.com/Edward-Doragon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Edward-Doragon/Edward-Doragon/blob/output/github-contribution-grid-snake.svg)
