@@ -1,8 +1,8 @@
 ### Olá pessoas, Carlos Eduardo aqui 👋
 
 - 🧠 Atualmente estou no 5° Semestre de Licenciatura em Computação no Instituto Federal da Bahia (IFBA)
-- 🌱 Atualmente estou focando meus estudos em desenvolvimento Front-End
-- 👨‍💻 Estou a procura de um estágio
+- 🌱 Atualmente estou focando meus estudos em desenvolvimento Front-End e no framework Angular.
+- 👨‍💻 Estangiando na Cielo.
 
 <div align="center">
   <a href="https://github.com/Edward-Doragon">
