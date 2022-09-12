@@ -2,7 +2,7 @@
 
 - 🧠 Atualmente estou no 6° Semestre do Curso de Licenciatura em Computação no Instituto Federal da Bahia (IFBA)
 - 🌱 Atualmente estou focando meus estudos em desenvolvimento Front-End e no framework Angular.
-- 👨‍💻 Estangiando na Cielo.
+- 👨‍💻 Estangiando na Cielo no time do site como desenvolvedor Front-end.
 
 <div align="center">
   <a href="https://github.com/Edward-Doragon">
