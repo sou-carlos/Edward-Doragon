@@ -1,7 +1,7 @@
 ### Olá pessoas, Carlos Eduardo aqui 👋
 
-- 🧠 Atualmente estou no 7° Semestre do Curso de Licenciatura em Computação no Instituto Federal da Bahia (IFBA)
-- 🌱 Atualmente estou focando meus estudos em desenvolvimento Front-End e no framework Angular.
+- 🧠 Atualmente estou no 8° Semestre do Curso de Licenciatura em Computação no Instituto Federal da Bahia (IFBA)
+- 🌱 Atualmente estou focando meus estudos em desenvolvimento Front-End com a utilização do framework Angular e estudos de Back-end com NodeJs e Express.
 - 👨‍💻 Desenvolvedor Front-end na Cielo.
 
 <div align="center">
